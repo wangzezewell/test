@@ -1,0 +1,68 @@
+html{font-size:20px;}
+.clear{clear:both;}
+.guokr{ width:16rem; margin:0 auto;}
+/*guokr_top*/
+.guokr_top{width:16rem; height:2.1rem; }
+.guokr_top p{ height:1.5rem; line-height:1.5rem;font-size: 0.75rem;padding-left:2rem; padding-right:1.5rem; margin:0.2rem 0 0 1.25rem;}
+.guokr_top p a{ color: #909090; }
+.guokr_top .login{ background: url(../images/guokr_ursname.png) no-repeat; background-size:1.5rem; border-right:2px solid #c4c4c4;}
+.guokr_top .Register{background: url(../images/guokr_passname.png) no-repeat;background-size:1.5rem; margin-left:1rem;}
+/*guokr_lunbo*/
+.guokr_lunbo{width:16rem; position:relative;}
+.guokr_lunbo img{width:16rem; height:7.775rem;}
+.guokr_lunbo p{width:16rem; height:1.8rem; line-height:1.8rem; font-size:0.825rem; position:absolute; bottom:0; left:0;background:#000; opacity:0.9;text-align:center;}
+.guokr_lunbo p a{ color:#fff; }
+/*hot_new*/
+.hot_new{width:16rem;}
+.hot_new ul{width:15.25rem; margin:0 auto;}
+.hot_new ul li{ width:15.25rem; height:2rem; line-height:2rem; overflow:hidden;white-space: nowrap;text-overflow: ellipsis; font-size:1rem; border-bottom:#eaeaea 1px solid;}
+.hot_new ul li a{ color:#333;}
+/*hot_answer*/
+.hot_answer{width:16rem; border-top:#57c0af 2px solid;}
+.hot_answer h4{ height:2rem; line-height:2rem; text-indent:1rem; font-size:1rem; border-bottom:#e2e2e2 1px solid; padding-left:0.5rem;}
+.hot_answer h4 a{ display:block; width:1.5rem; height:1.5rem; background:url(../images/guokr_more.png) no-repeat; background-size:1.5rem; margin:0.2rem; text-align:1rem;}
+.hot_answer .btn{ height:2rem; line-height:2rem; text-align:center; font-weight:600;border-bottom:#e2e2e2 1px solid; font-size:0.825rem;}
+.hot_answer .btn span{ display:block; float:left; width:3.25rem; color:#333;}
+.hot_answer .btn span.on{border-bottom:#a6535d 2px solid;}
+.hot_answer .p1{ height:2rem; line-height:2rem; text-indent:0rem; font-size:0.825rem; overflow:hidden;}
+.hot_answer .content{width:15.25rem; margin:0 auto; display:none;}
+.hot_answer .content.show{ display:block;}
+.hot_answer .content .img{}
+.hot_answer .content .img img{width:5.175rem; height:3.725rem;}
+.hot_answer .content .img p{width:8.675rem;height:3.725rem; padding-left:1rem; overflow:hidden; color:#979797; font-size:0.825rem; }
+.hot_answer .content .cont{}
+.hot_answer .content .cont ul{}
+.hot_answer .content .cont ul li{width:15.25rem; height:2rem; line-height:2rem; overflow:hidden;white-space: nowrap;text-overflow: ellipsis; font-size:0.825rem;border-bottom:#e2e2e2 1px solid;}
+.hot_answer .content .cont ul li a{ color:#333;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
